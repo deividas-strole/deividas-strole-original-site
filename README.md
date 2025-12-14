@@ -54,9 +54,11 @@ This project is intended for personal and professional portfolio use.
 
 ## 📫 Connect with Deividas Strole
 
-- LinkedIn: [linkedin.com/in/deividas-strole](https://linkedin.com/in/deividas-strole)  
-- YouTube: [youtube.com/@deividas-strole](https://youtube.com/@deividas-strole)
-
+- [LinkedIn](https://linkedin.com/in/deividas-strole)  
+- [YouTube](https://youtube.com/@deividas-strole)  
+- [Dev.to](https://dev.to/deividas-strole)  
+- [Medium](https://medium.com/@deividas-strole)  
+- [X](https://x.com/deividasstrole)  
 
 © 2025 Deividas Strole. All rights reserved.
 
