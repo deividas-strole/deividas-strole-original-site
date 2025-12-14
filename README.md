@@ -52,5 +52,11 @@ The website is deployed using GitHub Pages.
 
 This project is intended for personal and professional portfolio use.
 
+## 📫 Connect with Deividas Strole
+
+- LinkedIn: [linkedin.com/in/deividas-strole](https://linkedin.com/in/deividas-strole)  
+- YouTube: [youtube.com/@deividas-strole](https://youtube.com/@deividas-strole)
+
+
 © 2025 Deividas Strole. All rights reserved.
 
