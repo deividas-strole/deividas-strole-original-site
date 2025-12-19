@@ -3,7 +3,7 @@ Official portfolio website of Deividas Strole, a software engineer with expertis
 Built with clean HTML, CSS, and JavaScript for optimal performance and search engine visibility, hosted on GitHub Pages.
 
 ## View Live Site
-https://DeividasStrole.com
+https://deividas-strole.github.io
 
 ## About This Portfolio
 This site highlights:
