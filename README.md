@@ -12,7 +12,7 @@ This site highlights:
 - Academic credentials and professional certifications
 - Ways to get in touch and social profiles
 
-The design emphasizes speed, mobile compatibility, and straightforward updates.
+The design emphasizes speed, mobile compatibility, and straightforward updates
 
 ## Tech Stack
 ### Core Technologies
