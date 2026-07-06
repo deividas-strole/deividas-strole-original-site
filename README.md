@@ -49,6 +49,6 @@ Created for professional portfolio and career development purposes.
 - [Articles on Medium](https://medium.com/@deividas-strole)  
 - [Follow on X](https://x.com/deividasstrole)  
 
-⭐ Found this helpful? Star this repository to show your appreciation for **Deividas Strole's** work!
+⭐ Found this helpful? Star this repository to show your appreciation for **Deividas Strole's** work.
 
 © Deividas Strole. All rights reserved.
